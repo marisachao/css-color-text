@@ -1,4 +1,8 @@
 * {
   box-sizing: border-box; }
+  
+  body {
+    background-color: #a6a6a6;
+  }
 
 /*insert custom css below*/
