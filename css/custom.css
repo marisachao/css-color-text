@@ -31,4 +31,8 @@
     text-decoration: underline;
   }
   
+  a.read-more:hover {
+    color: #808080;
+  }
+  
 /*insert custom css below*/
