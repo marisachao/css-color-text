@@ -6,15 +6,15 @@
     font-family: helvetica;
     border: 5px groove #666666;
     padding: 20px 60px;
-    width: 275px;
-    margin: 500px, 1000px, 500px, 1000px;
+    width: 1000px;
+    margin: 50px 100px 50px 100px;
   }
   
   .box {
     border: 2px solid #808080;
-    padding: 20px;
-    width: 500px;
-    margin: 50px;
+    padding: 20px 60px;
+    width: 750px;
+    margin: 50px 100px 50px 100px ;
   }
   
   a {
