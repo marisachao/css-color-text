@@ -4,6 +4,9 @@
   body {
     background-color: #a6a6a6;
     font-family: helvetica;
+    border: 5px groove #666666;
+    padding: 20 px;
+    width: 275 px;
   }
 
 /*insert custom css below*/
