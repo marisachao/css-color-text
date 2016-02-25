@@ -22,9 +22,13 @@
     text-decoration: none;
   }
   
+  a:hover {
+    color: #ffffff;
+  }
+  
   a.read-more {
     color: black;
     text-decoration: underline;
   }
-
+  
 /*insert custom css below*/
