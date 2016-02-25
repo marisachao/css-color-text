@@ -4,10 +4,6 @@
   body {
     background-color: #e6e6e6;
     font-family: helvetica;
-    border: 5px groove #666666;
-    padding: 20px 60px;
-    width: 1000px;
-    margin: 50px 100px 50px 100px;
   }
   
   .box {
