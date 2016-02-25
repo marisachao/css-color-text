@@ -20,5 +20,10 @@
     color: black;
     text-decoration: none;
   }
+  
+  a.read-more {
+    color: black;
+    text-decoration: underline;
+  }
 
 /*insert custom css below*/
