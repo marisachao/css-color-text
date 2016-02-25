@@ -5,16 +5,16 @@
     background-color: #e6e6e6;
     font-family: helvetica;
     border: 5px groove #666666;
-    padding: 20 px 60 px;
-    width: 275 px;
-    margin: 500 px, 1000 px, 500 px, 1000 px;
+    padding: 20px 60px;
+    width: 275px;
+    margin: 500px, 1000px, 500px, 1000px;
   }
   
   .box {
     border: 2px solid #808080;
-    padding: 20 px;
-    width: 500 px;
-    margin: 50 px;
+    padding: 20px;
+    width: 500px;
+    margin: 50px;
   }
   
   a {
